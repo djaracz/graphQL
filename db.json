@@ -1,6 +1,10 @@
 {
   "users": [
-    { "id": "23", "firstName": "Adam", "age": 21 },
-    { "id": "32", "firstName": "Ela", "age": 23 }
+    { "id": "23", "firstName": "Adam", "age": 21, "companyId": "1"},
+    { "id": "32", "firstName": "Ela", "age": 23, "companyId": "2"}
+  ],
+  "company": [
+    { "id": "1", "name": "McDonald", "description": "description" },
+    { "id": "2", "name": "KFC", "description": "description" }
   ]
 }
